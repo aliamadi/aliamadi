@@ -26,4 +26,4 @@ Most of my day-to-day work lives in private company repositories on GitLab, so w
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/alireza-ahmadi-27ab85136) · aali80751@gmail.com
+[LinkedIn](https://linkedin.com/in/alirezaahmadi-dev) · aali80751@gmail.com
